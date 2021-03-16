@@ -8,3 +8,11 @@ h1 {
   width: 80%;
   font-size: 1.5em;
 }
+
+td {
+  width: 8em;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
